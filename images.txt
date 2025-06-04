@@ -1,3 +1,4 @@
 ubuntu:focal
 osrf/ros:humble-desktop-full
 osrf/ros:noetic-desktop-full
+nvidia/cuda:12.2.0-base-ubuntu22.04
