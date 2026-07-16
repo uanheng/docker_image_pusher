@@ -1,1 +1,1 @@
-postgres:15-alpine
+gitlab/gitlab-ce:latest
