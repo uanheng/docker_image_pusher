@@ -1,1 +1,1 @@
-memcached:1.6.29
+requarks/wiki:2.5
