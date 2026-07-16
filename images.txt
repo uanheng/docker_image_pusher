@@ -1,1 +1,1 @@
-requarks/wiki:2.5
+postgres:15-alpine
