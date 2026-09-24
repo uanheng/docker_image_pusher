@@ -1,2 +1,1 @@
-rust:1.97.1-alpine3.23
-alpine:3.23
+ghcr.io/dockur/windows:latest
