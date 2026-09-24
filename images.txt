@@ -1,1 +1,1 @@
-ghcr.io/dockur/windows:latest
+dockurr/windows:latest
